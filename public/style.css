@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(218, 218, 218, 0.507);
+}
+
+.navbar-bg {
+  background-color: #00A5AB;
+}
+
+.font-title {
+  text-decoration: underline #00A5AB;
+}
+
+.form-control {
+  background-color: whitesmoke;
+}
+
+thead {
+  background-color: #00A5AB;
+  color: white;
+}
